@@ -9,8 +9,8 @@
 - 👨‍💻 Open for FreeLancer Job.
 
 <h4>Linguagens que estou aprendendo: </h4>
-- Java ☕.
-- Dart & Flutter 🎯.
-- PHP 🐘.
-- MySQL 🏦.
+Java ☕ |
+Dart & Flutter 🎯 |
+PHP 🐘 |
+MySQL 🏦 
 
