@@ -5,7 +5,7 @@
 - 📖 Dev em andamento ⏳, focado em aprender programação.
 - 📚 Estudo na FATEC - Ourinhos, atualmente no curso de Análise e desenvolvimento de Sistemas, 4° Termo!
 - 💖 Apaixonado em Inteligência Artificial.
-- 🎓 Curso técnico: Habilitação profissional em Análise e desenvolvimento pela ETEC - Ourinhos.
+- 🎓 Curso técnico: Habilitação profissional em Análise e desenvolvimento de sistemas pela ETEC - Ourinhos (2020 - 2022).
 - 👨‍💻 Open for FreeLancer Job.
 
 <h4>Linguagens que estou aprendendo: </h4>
