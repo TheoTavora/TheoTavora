@@ -1,7 +1,7 @@
 <h1>Seja bem-vindo ao meu perfil do GitHub, sinta-se a vontade! 👋 </h1>
 <h3>Sobre mim:</h3>
 
-- 😁 Brazil(:brazil:), Théo Vitor Vanni Olivares Tavora, 17 anos, amante da tecnologia e automação!
+- 😁 Brazil, Théo Vitor Vanni Olivares Tavora, 17 anos, amante da tecnologia e automação!
 - 📖 Dev em andamento ⏳, focado em aprender programação.
 - 📚 Estudo na FATEC - Ourinhos, atualmente no curso de Análise e desenvolvimento de Sistemas, 4° Termo!
 - 💖 Apaixonado em Inteligência Artificial.
