@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Théo Vitor Tavora and I'm a Development and Data Analysis Student, from FATEC-OURINHOS</h2>
+<h2 align="left">Hi 👋! My name is Théo Vitor Tavora and I'm a Development & Data Analysis Student, from FATEC-OURINHOS</h2>
 
 ###
 
