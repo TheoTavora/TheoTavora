@@ -35,6 +35,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/theotavora/theotavora/output/snake.svg" alt="Snake animation" />
-
 ###
